@@ -12,7 +12,9 @@ This project aims to mitigate the classification of trash objects by developing 
 
 
 # Architecture Diagram
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/architecture.png)
 
+[Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick, ‘Mask R-CNN’ ](https://arxiv.org/pdf/1703.06870.pdf)
 # Dataset
 - The data was scraped from Google Images using the [Simple Image Downloader](https://libraries.io/pypi/simple-image-download) library.
 - The images are broadly classified into 6 classes such as Metal, Glass, Paper, Organic, E-Waste and Medical.
