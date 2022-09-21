@@ -20,9 +20,22 @@ This project aims to mitigate the classification of trash objects by developing 
 - The images are broadly classified into 6 classes such as Metal, Glass, Paper, Organic, E-Waste and Medical.
 - We have: 856 examples, 685 are training and 171 testing. (80-20 split).
 
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img1.png)
+
 # Approach
 
 # Usage
+
+# Results
+
+## FasterRCNN
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img2.png)
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img3.png)
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img4.png)
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img5.png)
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img6.png)
+
+## Mask RCNN
 
 # Contribution
 
