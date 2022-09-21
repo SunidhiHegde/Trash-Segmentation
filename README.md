@@ -36,6 +36,7 @@ This project aims to mitigate the classification of trash objects by developing 
 ![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img6.png)
 
 ## Mask RCNN
+![](https://github.com/vickymhs/Trash-Segmentation/blob/main/assets/img7.png)
 
 # Contribution
 
